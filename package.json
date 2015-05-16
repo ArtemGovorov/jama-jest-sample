@@ -1,0 +1,8 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jest-cli": "^0.4.3",
+    "moment": "^2.10.3"
+  }
+}
